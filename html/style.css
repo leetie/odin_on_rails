@@ -1,0 +1,76 @@
+body {
+    font-size: 14px;
+    color: navy;
+    background-color: rgb(133, 133, 51);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    margin: 20px;
+    padding: 0;
+
+
+}
+
+h1 {
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    color: rgb(223, 223, 13);
+    background-color: #009;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border color: red;
+    font-size: 1.5em;
+    background-color: #cccccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+/*      a comment */
+p {
+    font-variant: small caps;
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 25px;
+    text-align: center;
+}
+
+img {
+    border-style: groove;
+    border-width: 2px;
+    border-color: rgba(0, 153, 8, 0.651)
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
+
+form {
+    background-color: black;
+    border-style: solid;
+    border-color: rgb(0, 255, 0);
+    text-decoration-color: white;
+}
